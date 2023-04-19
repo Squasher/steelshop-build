@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbd4e699.css",
+    "main.js": "/static/js/main.d2c1ab27.js",
+    "static/media/montserrat-all-400-normal.woff": "/static/media/montserrat-all-400-normal.327fab0afc997a2d9b16.woff",
+    "static/media/tajawal-all-400-normal.woff": "/static/media/tajawal-all-400-normal.cadf09e06c9ec4469e4e.woff",
+    "static/media/montserrat-latin-400-normal.woff2": "/static/media/montserrat-latin-400-normal.acb6629fe45c43ad5d8b.woff2",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/static/media/montserrat-latin-ext-400-normal.0204ec08a4b574088f02.woff2",
+    "static/media/tajawal-latin-400-normal.woff2": "/static/media/tajawal-latin-400-normal.50180f9d76ffa631b4e6.woff2",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/static/media/montserrat-cyrillic-ext-400-normal.bbf9e820a2563aac0d8b.woff2",
+    "static/media/tajawal-arabic-400-normal.woff2": "/static/media/tajawal-arabic-400-normal.90b41214ca959dd65726.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/static/media/montserrat-cyrillic-400-normal.e5c5c19c23e370a342c8.woff2",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/static/media/montserrat-vietnamese-400-normal.8f3f4c99eb0eeb5990f1.woff2",
+    "index.html": "/index.html",
+    "main.dbd4e699.css.map": "/static/css/main.dbd4e699.css.map",
+    "main.d2c1ab27.js.map": "/static/js/main.d2c1ab27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd4e699.css",
+    "static/js/main.d2c1ab27.js"
+  ]
+}
